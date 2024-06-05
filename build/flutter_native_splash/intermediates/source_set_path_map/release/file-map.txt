@@ -1,0 +1,12 @@
+net.jonhanson.flutter_native_splash-jetified-window-1.0.0-beta04-0 /home/martin/.gradle/caches/transforms-3/032f4dff274e516110d9363a9793a3e3/transformed/jetified-window-1.0.0-beta04/res
+net.jonhanson.flutter_native_splash-jetified-window-java-1.0.0-beta04-1 /home/martin/.gradle/caches/transforms-3/142c24f2530665bb6deb4123ab140714/transformed/jetified-window-java-1.0.0-beta04/res
+net.jonhanson.flutter_native_splash-core-1.6.0-2 /home/martin/.gradle/caches/transforms-3/2579a7de00054bf46a8dbc332552f622/transformed/core-1.6.0/res
+net.jonhanson.flutter_native_splash-jetified-annotation-experimental-1.1.0-3 /home/martin/.gradle/caches/transforms-3/3f96ca76068ab400b494bc7d541ee256/transformed/jetified-annotation-experimental-1.1.0/res
+net.jonhanson.flutter_native_splash-main-4 /home/martin/.pub-cache/hosted/pub.dev/flutter_native_splash-2.2.16/android/src/main/res
+net.jonhanson.flutter_native_splash-release-5 /home/martin/.pub-cache/hosted/pub.dev/flutter_native_splash-2.2.16/android/src/release/res
+net.jonhanson.flutter_native_splash-pngs-6 /home/martin/project/github/kriptografi/kripto3/kriptografiku/build/flutter_native_splash/generated/res/pngs/release
+net.jonhanson.flutter_native_splash-resValues-7 /home/martin/project/github/kriptografi/kripto3/kriptografiku/build/flutter_native_splash/generated/res/resValues/release
+net.jonhanson.flutter_native_splash-rs-8 /home/martin/project/github/kriptografi/kripto3/kriptografiku/build/flutter_native_splash/generated/res/rs/release
+net.jonhanson.flutter_native_splash-mergeReleaseResources-9 /home/martin/project/github/kriptografi/kripto3/kriptografiku/build/flutter_native_splash/intermediates/incremental/release/mergeReleaseResources/merged.dir
+net.jonhanson.flutter_native_splash-mergeReleaseResources-10 /home/martin/project/github/kriptografi/kripto3/kriptografiku/build/flutter_native_splash/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+net.jonhanson.flutter_native_splash-merged_res-11 /home/martin/project/github/kriptografi/kripto3/kriptografiku/build/flutter_native_splash/intermediates/merged_res/release
